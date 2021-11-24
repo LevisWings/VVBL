@@ -3,7 +3,7 @@
 VVBL is a list of vulnerable virtual "boxes" (also known as machines) where their different properties and attributes are specified. This list only works in the notes application, Notion. When you enter the template, there will be a section explaining how to obtain it.
 
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUtMH3i-Fyec9IcFMjuDdRRlqWg9aZ1ORIKw&usqp=CAU" /><br><br>
+  <img src="https://github.com/LevisWings/VVBL/blob/master/img/cover.png?raw=true" /><br><br>
   Link to the template: Work in progress
 </p>
 
