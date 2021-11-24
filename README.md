@@ -8,7 +8,7 @@ VVBL is a list of vulnerable virtual "boxes" (also known as machines) where thei
 </p>
 
 ## Features:
-- :package: **+200** boxes
+- :package: **+200** "boxes"
 - :floppy_disk: **+90** services/software
 - :hocho: **+40** attack techniques
 - :syringe: **+80** CVEs
