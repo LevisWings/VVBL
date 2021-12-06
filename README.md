@@ -8,7 +8,7 @@ VVBL is a list of vulnerable "boxes"/virtual machines collected from different p
 </p>
 
 ## Features:
-- :package: **+240** "boxes"
+- :package: **+250** "boxes"
 - :floppy_disk: **+90** services/software
 - :knife: **+40** attack techniques
 - :syringe: **+80** CVEs
@@ -24,8 +24,8 @@ VVBL is a list of vulnerable "boxes"/virtual machines collected from different p
 ## Statistics
 |Platform|Documented/Total boxes|
 |---|---|
-|HackTheBox|74/246|
-|TryHackMe|132/185|
+|HackTheBox|77/248|
+|TryHackMe|136/186|
 |CyberSecLabs|36/36|
 |INE|3/3|
 |Proving Grounds|0/? (Coming soon)|
