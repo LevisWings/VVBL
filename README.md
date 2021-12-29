@@ -8,10 +8,10 @@ VVBL is a list of vulnerable "boxes"/virtual machines collected from different p
 </p>
 
 ## Features:
-- :package: **+250** "boxes"
-- :floppy_disk: **+90** services/software
-- :knife: **+40** attack techniques
-- :syringe: **+80** CVEs
+- :package: **+270** "boxes"
+- :floppy_disk: **+95** services/software
+- :knife: **+45** attack techniques
+- :syringe: **+85** CVEs
 - :beginner: Different difficulties: **easy**, **medium**, and **hard** (**insane** difficulty coming soon)
 - :flags: Different platforms: **HackTheBox**, **TryHackMe**, **CyberSecLabs**, **INE** (**Proving Grounds** and **SnapLabs** coming soon)
 - :computer: Different operating systems: **Ubuntu**, **Debian**, **CentOS**, **FreeBSD**, **Windows**, **Android**, etc.
