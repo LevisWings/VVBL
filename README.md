@@ -2,13 +2,10 @@
 
 VVBL is a list of vulnerable "boxes"/virtual machines collected from different platforms, where their attack techniques, services, operating system, difficulty, platform, etc. are specified. This list only works in the notes application, Notion. When you enter the template, there will be a section explaining how to obtain it.
 
-<p align="center">
-  <img src="https://github.com/LevisWings/VVBL/blob/master/img/cover.png?raw=true" /><br><br>
-  Link to the template: <a href="https://vvbl.notion.site/VVBL-Vulnerable-Virtual-Boxes-List-be999e9b7bb4489bacc1a5b17e4d298c">VVBL</a>
-</p>
+Find the project at https://vvblist.github.io
 
 ## Features:
-- :package: **+270** "boxes"
+- :package: **+280** "boxes"
 - :floppy_disk: **+95** services/software
 - :knife: **+45** attack techniques
 - :syringe: **+85** CVEs
@@ -16,7 +13,6 @@ VVBL is a list of vulnerable "boxes"/virtual machines collected from different p
 - :flags: Different platforms: **HackTheBox**, **TryHackMe**, **CyberSecLabs**, **INE** (**Proving Grounds** and **SnapLabs** coming soon)
 - :computer: Different operating systems: **Ubuntu**, **Debian**, **CentOS**, **FreeBSD**, **Windows**, **Android**, etc.
 - :bar_chart: Realistic or ctf type box?: **realistic**, **ctf/realistic** and **ctf**
-- :ballot_box_with_check: You will be able to **mark completed machines**.
 - :dollar: **Free** or **paid** "box"?
 
 > :star: You can help this project by sharing it to reach more people. Also, if you can provide a star on GitHub, it would be even better ;)
@@ -24,8 +20,8 @@ VVBL is a list of vulnerable "boxes"/virtual machines collected from different p
 ## Statistics
 |Platform|Documented/Total boxes|
 |---|---|
-|HackTheBox|77/248|
-|TryHackMe|136/186|
+|HackTheBox|77/268|
+|TryHackMe|136/200|
 |CyberSecLabs|36/36|
 |INE|3/3|
 |Proving Grounds|0/? (Coming soon)|
